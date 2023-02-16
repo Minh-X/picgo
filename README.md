@@ -1,2 +1,2 @@
 # picgo
-picgo图片上传
+此仓库用于存储 picgo 上传的图片
